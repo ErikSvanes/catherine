@@ -3,5 +3,5 @@
 }
 
 .app {
-    @apply h-screen w-full;
+    @apply h-[100vh] w-full;
 }
