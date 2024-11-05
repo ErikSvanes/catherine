@@ -1,0 +1,7 @@
+.test-size {
+    @apply border border-black; /* Adjust the color according to Tailwind's available colors */
+}
+
+.app {
+    @apply h-screen w-full;
+}
